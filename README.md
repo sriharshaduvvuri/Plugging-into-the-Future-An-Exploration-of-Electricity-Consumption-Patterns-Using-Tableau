@@ -1,5 +1,6 @@
 ⚡ Plugging into the Future
 An Exploration of Electricity Consumption Patterns Using Tableau
+
 📌 Project Overview
 
 Plugging into the Future is a data visualization project that analyzes electricity consumption patterns using Tableau. The project explores how electricity usage varies across time, seasons, and sectors to generate actionable insights for utility companies, policymakers, and energy consumers.
@@ -29,6 +30,7 @@ Compare sector-wise electricity consumption
 Provide data-driven recommendations for efficient energy management
 
 📊 Key Scenarios Analyzed
+
 1️⃣ Time-of-Day Usage Patterns
 
 This analysis examines hourly electricity consumption across regions and sectors.
